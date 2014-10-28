@@ -1,9 +1,9 @@
 # Site settings
-title:Josh's website
-email:jbayy334@gmail.com
-description:josh is a student at UAlbany
-url:jbay334.github.io
-github_username:jbay334
+title: Josh's website
+email: jbayy334@gmail.com
+description: josh is a student at UAlbany
+url: jbay334.github.io
+github_username: jbay334
 
 # Build settings
 markdown: kramdown
